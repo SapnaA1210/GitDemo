@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("Hello World !!!");
         System.out.println(Caluculator.add(10,5));
-        System.out.println("Merge check");
+        RegularPriceSign.printPriceSign();
         PriceTag.printPriceTag();
     }
 }
